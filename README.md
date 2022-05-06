@@ -12,4 +12,7 @@ Join my dev **[discord](https://discord.gg/CeCur92mYa)** 🦜
 - fivem cars
 
 and more ...
-![Profile views](https://gpvc.arturio.dev/yomsoyasovs)  
+
+<a href="https://github.com/yomsoyasovs/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=yomsoyasovs&style=for-the-badge">
+</a>
