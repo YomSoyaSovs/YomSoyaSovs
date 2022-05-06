@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/64097939/167210913-81be7462-73a1-4fba-b8a1-2eb2215fcc49.png)
 
-
-# Hey there , my name is YomSoyaSovs
+# Hey there 🚀, my name is YomSoyaSovs
 
 
 
@@ -13,5 +12,4 @@ Join my dev **[discord](https://discord.gg/CeCur92mYa)** 🦜
 - fivem cars
 
 and more ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yomsoyasovs)](https://github.com/yomsoyasovs/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/yomsoyasovs)  
