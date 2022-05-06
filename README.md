@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/64097939/167104785-0f5fa3c2-7723-4181-ba3d-6b6a5aae1a68.png)
+![image](https://user-images.githubusercontent.com/64097939/167106081-cd4722c8-9066-4355-b386-f8c7c95f9801.png)
+
 
 # Hey there 👋, my name is YomSoyaSovs
 
