@@ -13,4 +13,4 @@ Hey, i'm YomSoyaSovs—a developer and currently working on discord.js — bots.
 
 ### Get in touch 💬
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+@yomsoyasovs#0158 on **discord**
