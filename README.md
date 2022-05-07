@@ -20,3 +20,5 @@ Hey, i'm YomSoyaSovs—a developer and currently working on discord.js — bots.
 @yomsoyasovs#0158 on **discord**
 
 # A little more about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
