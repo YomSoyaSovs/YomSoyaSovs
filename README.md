@@ -2,7 +2,7 @@
 
 # YomSoyaSovs—@yomsoyasovs#0158
 
-Hey, i'm YomSoyaSovs—developer and currently working on discord.js — bots. If you would like to see more of my work, check out my **[discord](https://discord.gg/CeCur92mYa)** to see more of my work 🦜
+Hey, i'm YomSoyaSovs—a developer and currently working on discord.js — bots. <br>If you would like to see more of my work, check out my **[discord](https://discord.gg/CeCur92mYa)** 🦜
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
